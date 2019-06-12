@@ -1,2 +1,4 @@
 # cs229-koppen
-CS 229 Final Project, made by Drake Johnson, Tim Ngo, and Augusto Fernandez
+Code submission for CS 229 Spring 2019 Final Project. 
+
+Made by Drake Johnson, Tim Ngo, and Augusto Fernandez
